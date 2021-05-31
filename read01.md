@@ -22,4 +22,14 @@ format.*
 # GitHub Pages #
 ***GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. ...
 You'll create your own Hello World repository and learn GitHub's Pull Request workflow, a popular way to create and review code***
+![github](https://guides.github.com/activities/hello-world/create-new-repo.png)
+# GitHub offers the following features: #
+1. Collaboration.
+2. Integrated issue and bug tracking.
+3. Graphical representation of branches.
+4. Approximately 6 million hosted git repositories.
+5. Code review.
+6. Project management.
+7. Team management.
+8. Social coding.
 
