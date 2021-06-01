@@ -3,10 +3,10 @@
 and im graduated from al ahlliyya amman university since 2018 
 and im here on this course to be a good development as a software.*
 # table of content #
-|Read num     |Link    |
-| ----------- | ----------- |
-|  Lab01      | [link](lab01.md)  |
-|  Read01     | [link](read01.md) |
+|Read num    |Link    |
+| ----- | ----------- |
+|  Lab01   | [link](lab01.md)  |
+|  Read01  | [link](read01.md) |
 
 
 
