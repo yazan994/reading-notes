@@ -13,3 +13,9 @@ Having a growth mindset means relishing opportunities for self-improvement. Lear
 3. **Try different learning tactics.**
 There’s no one-size-fits-all model for learning. What works for one person may not work for you. Learn about learning strategies.
 ## There's more 25 way to keep you in good way for growth mindset on this [link](https://www.opencolleges.edu.au/informed/features/develop-a-growth-mindset/) ##
+# my link #
+https://github.com/yazan994
+
+my name is yazan alkafafi im actually in 27 years old and im a civil engineering 
+and im graduated from al ahlliyya amman university since 2018 
+and im here on this course to be a good development as a software
