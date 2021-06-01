@@ -101,4 +101,4 @@ $ git remote
 
 ## origin
 NOTE: Reminder: “origin” is simply the default remote name when you use the git clone command.
-my link https://yazan994.github.io/reading-notes/read02
+
