@@ -17,7 +17,7 @@ Switching later to software (after initially hand-drawing your wireframe) allows
 - Sketch > Code
 - Sketch > Wireframe > Hi-Def Wireframe > Visual > Code
 - Sketch > Wireframe > Visual > Code
-# How to make your wireframe in six steps :- 
+# How to make your wireframe in six steps : 
 1. Do your research
 2. Prepare your research for quick reference
 3. Make sure you have your user flow mapped out 
